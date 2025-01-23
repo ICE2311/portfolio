@@ -80,28 +80,12 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
+    title: "Pixelflow - UI/UX Designer",
+    des: "Simplify your designing experience with pixelflow. Seamlessly connect with colleagues and friends.",
     img: "/p2.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/",
-  },
-  {
-    id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-    img: "/p3.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "/",
-  },
-  {
-    id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "/p4.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/",
-  },
+    link: "https://pixelflowviz.vercel.app/",
+  }
 ];
 
 export const testimonials = [
@@ -145,38 +129,6 @@ export const companies = [
     nameImg: "/dockerName.svg",
   },
 ];
-
-
-// export const workExperience = [
-//   {
-//     id: 1,
-//     title: "Na",
-//     desc: "Na",
-//     className: "md:col-span-2",
-//     thumbnail: "/exp1.svg",
-//   },
-//   {
-//     id: 2,
-//     title: "Mobile App Dev - JSM Tech",
-//     desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
-//     className: "md:col-span-2", // change to md:col-span-2
-//     thumbnail: "/exp2.svg",
-//   },
-//   {
-//     id: 3,
-//     title: "Freelance App Dev Project",
-//     desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
-//     className: "md:col-span-2", // change to md:col-span-2
-//     thumbnail: "/exp3.svg",
-//   },
-//   {
-//     id: 4,
-//     title: "Lead Frontend Developer",
-//     desc: "Developed and maintained user-facing features using modern frontend technologies.",
-//     className: "md:col-span-2",
-//     thumbnail: "/exp4.svg",
-//   },
-// ];
 
 export const socialMedia = [
   {
