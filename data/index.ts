@@ -74,7 +74,7 @@ export const projects = [
     id: 1,
     title: "3D Chemical Elements to Explore",
     des: "Explore the wonders of our Chemical Elements with this captivating 3D simulation of the planets using Google model viewer ",
-    img: "/p1.svg",
+    img: "/p1.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
     link: "https://chemviz.vercel.app",
   },
