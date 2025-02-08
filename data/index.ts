@@ -85,7 +85,16 @@ export const projects = [
     img: "/p2.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
     link: "https://pixelflowviz.vercel.app/",
+  },
+  {
+    id: 2,
+    title: "CodeFlow - Online code editor",
+    des: "simplify your coding experience with CodeFlow. Seamlessly connect, share, and grow your coding skills.",
+    img: "/p2.svg",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/c.svg"],
+    link: "https://codeflowpro.vercel.app/",
   }
+
 ];
 
 export const testimonials = [
